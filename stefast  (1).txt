@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Stegineer Boldbrain</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Welcome to the World of Stegineer Boldbrain</h1>
+    <p>The Future's Bright, Because I'm Building It!</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hi! I'm Stefast, also known as Stegineer Boldbrain. I'm a 16-year-old inventor from Ghana who's on a mission to change the world with tech, engineering, and imagination!</p>
+  </section>
+
+  <section id="inventions">
+    <h2>My Inventions</h2>
+    <ul>
+      <li>💡 Stebot 3000 – A talking AI robot assistant</li>
+      <li>🔋 Air Charger – Wireless charger the size of an earbud</li>
+      <li>🚘 Multi-terrain car – Built to conquer any road</li>
+      <li>👞 Adjustable Heels – Heels that change height on command</li>
+      <li>📚 Phone Book – A book that functions like a phone</li>
+    </ul>
+  </section>
+
+  <section id="fun">
+    <h2>Fun Zone</h2>
+    <button onclick="playGame()">Play a Quick Game</button>
+    <button onclick="askQuiz()">Take a Quiz</button>
+    <p id="game-result"></p>
+  </section>
+
+  <footer>
+    <p>Created by Stegineer Boldbrain © 2025</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Stegineer Boldbrain</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Welcome to the World of Stegineer Boldbrain</h1>
+    <p>The Future's Bright, Because I'm Building It!</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hi! I'm Stefast, also known as Stegineer Boldbrain. I'm a 16-year-old inventor from Ghana who's on a mission to change the world with tech, engineering, and imagination!</p>
+  </section>
+
+  <section id="inventions">
+    <h2>My Inventions</h2>
+    <ul>
+      <li>💡 Stebot 3000 – A talking AI robot assistant</li>
+      <li>🔋 Air Charger – Wireless charger the size of an earbud</li>
+      <li>🚘 Multi-terrain car – Built to conquer any road</li>
+      <li>👞 Adjustable Heels – Heels that change height on command</li>
+      <li>📚 Phone Book – A book that functions like a phone</li>
+    </ul>
+  </section>
+
+  <section id="fun">
+    <h2>Fun Zone</h2>
+    <button onclick="playGame()">Play a Quick Game</button>
+    <button onclick="askQuiz()">Take a Quiz</button>
+    <p id="game-result"></p>
+  </section>
+
+  <footer>
+    <p>Created by Stegineer Boldbrain © 2025</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

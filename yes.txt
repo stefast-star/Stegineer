@@ -1,0 +1,14 @@
+function playGame() {
+  const games = ["You just won a mini drone!", "Oops! You slipped on banana peel 😂", "Congrats, you're now a Space Explorer!", "You met Elon Musk!"];
+  const result = games[Math.floor(Math.random() * games.length)];
+  document.getElementById("game-result").innerText = result;
+}
+
+function askQuiz() {
+  const answer = prompt("Which invention is mine?\n1. Stebot 3000\n2. iPhone 13\n3. Time Machine");
+  if (answer == "1") {
+    alert("Correct! You're a genius like me 😎");
+  } else {
+    alert("Wrong! But hey, keep learning!");
+  }
+}
